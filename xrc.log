@@ -1,0 +1,16 @@
+Thu Oct 13 22:13:39 2022: Server was asked to start on port: '44033'
+Thu Oct 13 22:13:39 2022: Server is using token UUID: '0dc8d313-64e3-44f0-a4a3-a1de9d08ab3c'
+Thu Oct 13 22:13:39 2022: Attempting to start server on port '44033'
+Thu Oct 13 22:13:39 2022: XRC main fifo: created main fifo '/tmp/xrcmain0dc8d313-64e3-44f0-a4a3-a1de9d08ab3c', fd read = 11
+Thu Oct 13 22:13:39 2022: Running Rule Check Server
+Thu Oct 13 22:13:39 2022: Version 1.6.1
+Thu Oct 13 22:13:39 2022: Rule Check Server: Accepted socket connection from client
+Thu Oct 13 22:13:39 2022: EXCHANGE_TOKEN received, server token: 0dc8d313-64e3-44f0-a4a3-a1de9d08ab3c, passed token: 0dc8d313-64e3-44f0-a4a3-a1de9d08ab3c
+Thu Oct 13 22:18:54 2022: SESSION_MGR: creating session with session uuid: 'f3f4da74-c64a-498d-a835-afd329be9f6a' and name 'SystemDebugger_KernelTest_system_KernelTest'
+Thu Oct 13 23:02:43 2022: SESSION_MGR: closing session for UUID 'f3f4da74-c64a-498d-a835-afd329be9f6a' with name 'SystemDebugger_KernelTest_system_KernelTest'
+Thu Oct 13 23:06:31 2022: STOP_SERVER received, server token: 0dc8d313-64e3-44f0-a4a3-a1de9d08ab3c, passed token: 0dc8d313-64e3-44f0-a4a3-a1de9d08ab3c
+Thu Oct 13 23:06:31 2022: Socket received request to stop server.
+Thu Oct 13 23:06:31 2022: SERVER: destructor for server bound to port 44033
+Thu Oct 13 23:06:31 2022: XRC main fifo: Good unlink of /tmp/xrcmain0dc8d313-64e3-44f0-a4a3-a1de9d08ab3c
+Thu Oct 13 23:06:31 2022: Server exiting with status 0.
+Thu Oct 13 23:06:31 2022: Closing log file.
